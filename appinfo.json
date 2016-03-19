@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Anshul Kharbanda",
+    "enableMultiJS": false,
+    "longName": "Binary Time and Date",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Perfect DOS VGA 437.ttf",
+                "name": "FONT_KEY_PERFECT_DOS_24",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/Perfect DOS VGA 437.ttf",
+                "name": "FONT_KEY_PERFECT_DOS_32",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Binary Time",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "7a768137-4d39-45c5-bee3-aa4ab3104067",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
